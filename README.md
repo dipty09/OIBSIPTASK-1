@@ -1,4 +1,4 @@
-# OIBSIPTASK-1
+# OIBSIPTASK-2
 Oasis Infobyte java development project repository. This Repository contain java project  Number guessing Game.
 
 Project 1: Number Guessing Game
